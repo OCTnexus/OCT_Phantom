@@ -1,0 +1,9 @@
+# Exclude draft work
+Draft/
+
+# Exclude Microsoft Word documents
+*.doc
+*.docx
+
+# Optional: exclude temporary Word lock files
+~$*.docx
