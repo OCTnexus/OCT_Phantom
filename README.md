@@ -30,7 +30,7 @@ The protocol reports example phantom sets with TiO2 concentrations from 1 mg/g t
 
 The [`3D Printed Components/`](3D%20Printed%20Components/) folder includes:
 
-- [`Phantom_Hill.f3d`](3D%20Printed%20Components/Phantom_Hill.f3d) - Fusion 360 design file.
+- [`Phantom_Hill.stl`](3D%20Printed%20Components/Phantom_Hill.stl) - STL model for the imaging hill.
 - [`Phantom_trap.stl`](3D%20Printed%20Components/Phantom_trap.stl) - STL model for the phantom trap component.
 - [`Phantom_trap_case_part1.stl`](3D%20Printed%20Components/Phantom_trap_case_part1.stl) and [`Phantom_trap_case_part2.stl`](3D%20Printed%20Components/Phantom_trap_case_part2.stl) - STL models for the protective case/enclosure parts.
 
