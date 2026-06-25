@@ -58,7 +58,7 @@ Before fabrication, confirm that all current SDS documents required by the proto
 ## Shelf Time Track
 
 <p align="center">
-  <img src="./Long%20Term%20Track/Long%20Term%20Track.png" width="450" height="300" alt="Shelf Time Track">
+  <img src="./Long%20Term%20Track/Long%20Term%20Track.png" width="450" height="450" alt="Shelf Time Track">
 </p>
 
 ## Use Limitations
