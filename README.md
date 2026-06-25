@@ -12,7 +12,6 @@ The main protocol describes cartridge-format TiO2-doped PDMS phantoms assembled 
 | [`3D Printed Components/`](3D%20Printed%20Components/) | CAD and STL files for the phantom cartridge, trap, enclosure/case parts, and related printed components. |
 | [`SDS_Files/`](SDS_Files/) | Safety data sheets currently included with the repository. |
 
-
 ## Protocol Summary
 
 The protocol covers:
@@ -55,6 +54,12 @@ Before fabrication, confirm that all current SDS documents required by the proto
 5. Fill, degas, and cure the phantom cartridge.
 6. Assemble the protective enclosure.
 7. Inspect, label, measure, and store the phantom according to the protocol.
+
+## Shelf Time Track
+
+<p align="center">
+  <img src="[https://github.com/user-attachments/assets/77bfeeb6-46ac-463d-ac7d-ca6f9f518825](https://github.com/OCTnexus/OCT_Phantom/tree/main/Long%20Term%20Track)" width="450" height="300" alt="Long Term Track">
+</p>
 
 ## Use Limitations
 
