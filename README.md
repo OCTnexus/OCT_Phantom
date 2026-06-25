@@ -58,7 +58,7 @@ Before fabrication, confirm that all current SDS documents required by the proto
 ## Shelf Time Track
 
 <p align="center">
-  <img src="[https://github.com/user-attachments/assets/77bfeeb6-46ac-463d-ac7d-ca6f9f518825](https://github.com/OCTnexus/OCT_Phantom/tree/main/Long%20Term%20Track)" width="450" height="300" alt="Long Term Track">
+  <img src="https://github.com/OCTnexus/OCT_Phantom/tree/main/Long%20Term%20Track" width="450" height="300" alt="Long Term Track">
 </p>
 
 ## Use Limitations
