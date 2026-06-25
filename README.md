@@ -1,3 +1,4 @@
+<img width="1389" height="1190" alt="Long Term Track" src="https://github.com/user-attachments/assets/3c191a9b-4fe9-4d99-9bc2-4f3fab92734c" />
 # TiO2 OCT Phantom Protocol
 
 This repository contains documentation and fabrication support files for titanium dioxide (TiO2) optical scattering phantoms used as physical reference objects for optical coherence tomography (OCT) imaging and attenuation measurement validation.
@@ -58,7 +59,7 @@ Before fabrication, confirm that all current SDS documents required by the proto
 ## Shelf Time Track
 
 <p align="center">
-  <img src="https://github.com/OCTnexus/OCT_Phantom/tree/main/Long%20Term%20Track" width="450" height="300" alt="Long Term Track">
+  <img src="./Long%20Term%20Track/Long%20Term%20Track.png" width="450" height="300" alt="Shelf Time Track">
 </p>
 
 ## Use Limitations
