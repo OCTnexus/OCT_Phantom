@@ -68,3 +68,9 @@ These phantoms are research and validation tools for optical imaging systems. Th
 ## Acknowledgment
 
 This work is supported by NIBIB R21EB03393 for the National Medical Phantom Library (NMPL).
+
+## Citation
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21270211.svg)](https://doi.org/10.5281/zenodo.21270211)
+
+https://doi.org/10.5281/zenodo.21270211
